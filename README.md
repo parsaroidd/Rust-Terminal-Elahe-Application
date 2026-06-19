@@ -19,4 +19,5 @@ OR you can specify binaries in your `Cargo.toml`, the [[bin]] parts, like me and
 <br> <br>
 For now they don't have any diffrence but this application probably is going to have multiple binaries in future so yeah.
 
-<img src="https://github.com/parsaroidd/Rust-Terminal-chatbot-Application/blob/main/img/Screenshot_2026-06-19_15-57-20.jpg">
+<img src="https://github.com/parsaroidd/Rust-Terminal-Elahe-Application/blob/main/img/Screenshot_2026-06-19_19-09-35.jpg">
+
